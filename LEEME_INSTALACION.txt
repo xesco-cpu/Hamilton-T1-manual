@@ -1,0 +1,7 @@
+HAMILTON-T1 · Guía móvil PWA + montajes (28-10-2026)
+
+Para publicar: extrae el ZIP, sube los archivos de su interior directamente en la raíz de un repositorio GitHub. Activa Settings > Pages > Deploy from a branch > main > /(root).
+
+Archivos: index.html, manifest.webmanifest, service-worker.js, icon-192.png, icon-512.png, montajes_independiente.html.
+
+La app es independiente y no oficial. Los esquemas son ilustraciones originales simplificadas; las capturas originales se consultan mediante enlaces al manual del fabricante.
